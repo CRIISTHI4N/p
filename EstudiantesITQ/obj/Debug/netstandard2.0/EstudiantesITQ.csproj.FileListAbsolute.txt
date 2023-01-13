@@ -1,0 +1,16 @@
+C:\ProyectosMoviles\EstudiantesITQ\EstudiantesITQ\bin\Debug\netstandard2.0\EstudiantesITQ.deps.json
+C:\ProyectosMoviles\EstudiantesITQ\EstudiantesITQ\bin\Debug\netstandard2.0\EstudiantesITQ.dll
+C:\ProyectosMoviles\EstudiantesITQ\EstudiantesITQ\bin\Debug\netstandard2.0\EstudiantesITQ.pdb
+C:\ProyectosMoviles\EstudiantesITQ\EstudiantesITQ\obj\Debug\netstandard2.0\EstudiantesITQ.csproj.AssemblyReference.cache
+C:\ProyectosMoviles\EstudiantesITQ\EstudiantesITQ\obj\Debug\netstandard2.0\EstudiantesITQ.GeneratedMSBuildEditorConfig.editorconfig
+C:\ProyectosMoviles\EstudiantesITQ\EstudiantesITQ\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\ProyectosMoviles\EstudiantesITQ\EstudiantesITQ\obj\Debug\netstandard2.0\ListadoEstudiantes.xaml.g.cs
+C:\ProyectosMoviles\EstudiantesITQ\EstudiantesITQ\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\ProyectosMoviles\EstudiantesITQ\EstudiantesITQ\obj\Debug\netstandard2.0\EstudiantesITQ.AssemblyInfoInputs.cache
+C:\ProyectosMoviles\EstudiantesITQ\EstudiantesITQ\obj\Debug\netstandard2.0\EstudiantesITQ.AssemblyInfo.cs
+C:\ProyectosMoviles\EstudiantesITQ\EstudiantesITQ\obj\Debug\netstandard2.0\EstudiantesITQ.csproj.CoreCompileInputs.cache
+C:\ProyectosMoviles\EstudiantesITQ\EstudiantesITQ\obj\Debug\netstandard2.0\XamlC.stamp
+C:\ProyectosMoviles\EstudiantesITQ\EstudiantesITQ\obj\Debug\netstandard2.0\EstudiantesITQ.dll
+C:\ProyectosMoviles\EstudiantesITQ\EstudiantesITQ\obj\Debug\netstandard2.0\refint\EstudiantesITQ.dll
+C:\ProyectosMoviles\EstudiantesITQ\EstudiantesITQ\obj\Debug\netstandard2.0\EstudiantesITQ.pdb
+C:\ProyectosMoviles\EstudiantesITQ\EstudiantesITQ\obj\Debug\netstandard2.0\ref\EstudiantesITQ.dll

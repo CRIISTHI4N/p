@@ -1,0 +1,54 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="EstudiantesITQ.ListadoEstudiantes">
+    <ContentPage.Content>
+        <StackLayout>
+            <Label Text="Listado Estudiantes"
+                   FontSize="Large"
+                   HeightRequest="50"
+                   FontAttributes="Bold"
+                    VerticalOptions="CenterAndExpand" 
+                    HorizontalOptions="CenterAndExpand" />
+
+            <ListView x:Name="lstViewEstudiantes">
+                <ListView.ItemTemplate>
+                    <DataTemplate>
+                        <ViewCell>
+                            <StackLayout>
+                                <Grid MinimumHeightRequest="50">
+                                    <Grid.ColumnDefinitions>
+                                        <ColumnDefinition Width=".1*" />
+                                        <ColumnDefinition Width=".2*" />
+                                        <ColumnDefinition Width=".3*" />
+                                        <ColumnDefinition Width=".4*" />
+                                        <ColumnDefinition Width=".5*" />
+                                    </Grid.ColumnDefinitions>
+                                
+                                    <Grid.RowDefinitions>
+                                        <RowDefinition Height="5*"/>
+                                        <RowDefinition Height="2*"/>
+                                    </Grid.RowDefinitions>
+
+                                    <Label Text="{Binding codigo}" FontSize="10" Grid.RowSpan="2"/>
+                                    <Label Grid.Column="0" FontAttributes="Bold" FontSize="10" 
+                                               Text="{Binding nombre}"
+                                               VerticalOptions="Center"/>
+                                    <Label Grid.Column="1" FontAttributes="Bold" FontSize="10" 
+                                               Text="{Binding apellido}"
+                                               VerticalOptions="Center"/>
+                                    <Label Grid.Column="2" FontAttributes="Bold" FontSize="10" 
+                                               Text="{Binding correo}"
+                                               VerticalOptions="Center"/>
+                                    <Label Grid.Column="3" FontAttributes="Bold" FontSize="10"
+                                               Text="{Binding telefono}"
+                                               VerticalOptions="Center"/>
+                                </Grid>
+                            </StackLayout>
+                        </ViewCell>
+                    </DataTemplate>
+                </ListView.ItemTemplate>
+            </ListView>
+        </StackLayout>
+    </ContentPage.Content>
+</ContentPage>
